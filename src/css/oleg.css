@@ -1,10 +1,10 @@
-.hero {
-    background-color: rgb(155, 196, 196);
+.oleg {
+    background-color: #c0d8d8;
     background-image: url(../img/fon.jpg);    
     padding: 50px;
 }
 
-.hero img {
+.oleg img {
     display: block;
     width: 300px;
     margin-left: auto;
