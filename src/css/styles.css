@@ -7,11 +7,15 @@
 @import url('./reset.css');
 @import url('./vite-promo.css');
 @import url('./header.css');
+
+@import url('./dmytro.css');
+
 @import url('./oleg.css');
 
 @import url('./oksy.css');
 
 @import url('./footer.css');
+
 
 
 :root {
