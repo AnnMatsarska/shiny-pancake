@@ -1,0 +1,13 @@
+.oleg {
+    background-color: #c0d8d8;
+    background-image: url(../img/fon.jpg);    
+    padding: 50px;
+}
+
+.oleg img {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
